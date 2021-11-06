@@ -1,2 +1,2 @@
 # Redux
-sample project
+sample React Redux project
